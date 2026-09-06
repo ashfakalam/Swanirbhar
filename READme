@@ -1,0 +1,52 @@
+# Swanirbhar AI Workbench 🚀
+
+**Your intelligent workspace for AI‑powered productivity.**
+
+A sleek desktop application built with PySide6 (Qt) by Team TechTitans.  
+It provides a unified interface for AI model management, project tracking, document handling, and real‑time system monitoring.
+
+---
+
+## ✨ Features
+- 📊 **Dashboard** – Chat with an AI assistant (demo mode), manage documents and output files.
+- 📁 **Projects** – View and manage your AI projects in a beautiful grid.
+- 📈 **Reports** – Generate and track reports with progress animation.
+- ⚙️ **Settings** – Customize themes, AI models, storage paths, and privacy preferences.
+- 📊 **Monitoring** – Real‑time CPU, Memory, GPU, Disk, and Wi‑Fi stats with animated bars.
+- 🕒 **History** – Complete activity log with timestamps and persistent JSON storage.
+- 📋 **Logs** – Live system logs with color‑coded levels and file persistence.
+- ❓ **Help** – Built‑in documentation and support contact.
+
+---
+
+## 🖥️ Download & Install
+- **Windows**: Download the `.exe` from our [official download page](https://your-link-here.com).
+- **Linux**: For Linux users, an `.AppImage` is also available on the same page.
+
+Simply download and run – no Python or additional dependencies required.
+
+---
+
+## 👨‍💻 Built by Team TechTitans
+- Ashfak Alam
+- Nadia Muskan
+- Md Shahid Iqbal
+- Mullick Waliullah
+- Zaid Imam
+- Bikram Bera
+
+---
+
+## 🔧 Development Setup (for contributors)
+```bash
+# Clone the repository
+git clone https://github.com/your-repo/swanirbhar-workbench.git
+cd swanirbhar-workbench
+
+# Create virtual environment and install dependencies
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+pip install -r requirements.txt
+
+# Run the application
+python main.py
